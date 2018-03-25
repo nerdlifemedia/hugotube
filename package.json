@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "description": "Hugo theme based on Youtube",
   "main": "index.js",
-  "repository": "git@github.com:marcanuy/hugotube.git",
-  "author": "Marcelo Canina <me@marcanuy.com>",
+  "repository": "git@github.com:nerdlifemedia/hugotube.git",
+  "author": "Marcelo Canina / NerdLifeMedia",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "4.0.0-beta.2",
+    "bootstrap": "4.0.0",
     "jquery": "3.2.1",
     "node-sass": "^4.7.2"
   },
